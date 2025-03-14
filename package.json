@@ -1,0 +1,18 @@
+{
+	"name": "png-merger-for-nfts",
+	"version": "1.0.0",
+	"description": "Simple NFT generator for PNGs",
+	"main": "main.js",
+	"type": "module",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"dependencies": {
+		"canvas": "^2.11.2",
+		"gifencoder": "^2.0.1",
+		"pngjs": "^7.0.0",
+		"prompt-sync": "^4.2.0"
+	},
+	"keywords": [],
+	"author": "crmh.xyz"
+}
