@@ -10,6 +10,7 @@
 	"dependencies": {
 		"canvas": "^2.11.2",
 		"gifencoder": "^2.0.1",
+		"inquirer": "^12.5.2",
 		"pngjs": "^7.0.0",
 		"prompt-sync": "^4.2.0"
 	},
