@@ -1,4 +1,4 @@
-# GIF Merger for NFTs
+# NFT collection builder
 
 A simple tool to create unique PNG NFTS by merging multiple PNG layers, 
 with custom parameters including collection name, description, layer size and order, etc... And creating metadata in JSON format for each NFT.
